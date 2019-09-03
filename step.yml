@@ -1,6 +1,6 @@
 title: Set GEM_HOME
-summary: Set GEM_HOME
-description: Set GEM_HOME
+summary: Set `GEM_HOME` Environment Variable
+description: Set `GEM_HOME` Environment Variable
 
 website: https://github.com/chrisfuller/bitrise-step-set-gem-home
 source_code_url: https://github.com/chrisfuller/bitrise-step-set-gem-home
